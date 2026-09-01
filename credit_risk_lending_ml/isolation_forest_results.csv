@@ -1,0 +1,2 @@
+total_transactions,seeded_anomalies,flagged_anomalies,seeded_anomalies_detected,isolation_forest_recall
+265,15,15,11,0.7333333333333333
