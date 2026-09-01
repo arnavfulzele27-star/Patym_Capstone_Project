@@ -2,15 +2,27 @@
 
 ## Capstone Project
 
-Executive Certification in FinTech & Artificial Intelligence
+This repository contains one connected Paytm-style FinTech Analytics and Artificial Intelligence platform.
 
-## Project Parts
+The project has three integrated parts:
 
-### Part 1 — Payments & Fraud Analytics
-`/payments_fraud_analytics`
+1. **Payments & Fraud Analytics**
+2. **Credit Risk & Lending ML**
+3. **AI Advisory & Blockchain Risk**
 
-### Part 2 — Credit Risk & Lending ML
-`/credit_risk_lending_ml`
+All monetary values in this project are expressed in **Indian Rupees (INR)**.
 
-### Part 3 — AI Advisory & Blockchain
-`/ai_advisory_blockchain`
+---
+
+# Repository Structure
+
+```text
+Patym_Capstone_Project/
+│
+├── README.md
+│
+├── payments_fraud_analytics/
+│
+├── credit_risk_lending_ml/
+│
+└── ai_advisory_blockchain/
